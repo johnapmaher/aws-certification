@@ -101,3 +101,12 @@ This lesson provides a very brief overview of the current AWS landscape.
 * WAF - Web application firewall, level 7 firewall.
 * Shield - DDoS Mitigation.
 * Artifact - Download and inspect compliance docs. 
+
+## Mobile Services
+* Mobile Hub - Management console for mobile apps.
+* Pinpoint - Push notifications for mobile engagement.
+* AWS AppSync - Updates data upon mobile reconnecting.
+* Device Farm - Testing apps on real devices.
+* Mobile Analytics - Does what it says on the tin.
+
+## AR/VR
