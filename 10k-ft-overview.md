@@ -110,3 +110,34 @@ This lesson provides a very brief overview of the current AWS landscape.
 * Mobile Analytics - Does what it says on the tin.
 
 ## AR/VR
+* Sumerian - Building 3D environments.
+
+## Application Integration
+* Step Functions - Managing linked up lambdas.
+* Amazon MQ - Amazon Message Queue.
+* SNS - Simple Notification Service, event based.
+* SQS - Decouple your infrastructure, poll based queueing.
+* SWF - Simple workflow service, co-ordinate workflows
+
+## Customer Engagement
+* Connect - Call center in the cloud.
+* SES - Simple email service.
+
+## Business Productivity
+* Alexa For Business - business assistant.
+* Chime - video conferencing.
+* Work Docs - file sharing, dropbox style.
+* WorkMail - Workplace mail solution.
+
+## Desktop & App Stream
+* Workspaces - VDIs in the cloud.
+* AppStream 2.0 - Stream applications like Citrix.
+
+## IOT
+* iOT -
+* iOT Device Management -
+* Amazon FreeRTOS - OS for IOT devices
+* Greengrass -
+
+## Game Development
+* GameLift - Develop games in the cloud.
