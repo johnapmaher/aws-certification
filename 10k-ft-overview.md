@@ -88,3 +88,16 @@ This lesson provides a very brief overview of the current AWS landscape.
 * QuickSight - Business Intelligence tool.
 * Data Pipeline - Interval-based data transfer, processing and storage.
 * Glue - Managed serverless extract, transform and load (ETL) service.
+
+## Security & identity & Compliance
+* IAM - Identity Access Management.
+* Cognito - Temporary mobil auth service.
+* GuardDuty
+* Inspector - Test EC2 instances for vulnerabilities.
+* Macie - Searches data stores for personally identifiable information (PII).
+* Certificate Manager - Managing SSL Cers.
+* CloudHSM - Hardware Security Modules, key stores etc.
+* Directory Service - MS active directory integration
+* WAF - Web application firewall, level 7 firewall.
+* Shield - DDoS Mitigation.
+* Artifact - Download and inspect compliance docs. 
