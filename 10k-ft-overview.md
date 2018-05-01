@@ -1,6 +1,6 @@
-#AWS 10,000 Foot Overview
+# AWS 10,000 Foot Overview
 
-##Compute
+## Compute
 EC2 - Elastic Compute Cloud
 EC2 Container Service - for running docker containers
 Elastic Beanstalk -
