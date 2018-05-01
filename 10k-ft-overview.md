@@ -5,10 +5,10 @@ This lesson provides a very brief overview of the current AWS landscape.
 
 ## Compute
 EC2 - Elastic Compute Cloud
-EC2 Container Service - for running docker containers
-Elastic Beanstalk -
+ECS - Elastic Container Service - orchestrates docker containers
+Elastic Beanstalk - PaaS-style upload application and the rest is taken care of.
 Lambda - serverless/function as a service
-Lightsail - VPS service, provisioned server
+Lightsail - VPS service, provisioned server - think Digital Ocean.
 Batch
 
 ## Storage
@@ -25,7 +25,7 @@ Elasticache - caching service
 Red Shift - Data-warehousing
 
 ## Migration
-AWS Migration Hub
+AWS Migration Hub - centralizes metrics on and the current progress of migrations
 Application Discovery Service - Tracking application and app dependencies
 Database Migration Service - simplify migration of db to AWS
 Server Migration Service - simplify migration of server to AWS
@@ -35,8 +35,8 @@ Snowball - Physical transfer of data
 VPC - Virtual Private Cloud
 CloudFront - Amazon's CDN
 Route53 - DNS service, DNS mapping from domain to ipv4/ipv6
-API Gateway
-Direct Connect
+API Gateway - Edge service providing an access point to an API.
+Direct Connect - provides a connection between AWS and a company's own data center.
 
 
 ## Developer Tools
@@ -69,22 +69,22 @@ MediaTailor
 
 ## Machine Learning
 SageMaker - Deep Learning
-Comprehend
-DeepLens
-Lex - Alexa engine
-Machine Learning
-Polly - Text to speech
-Rekognition - Image/Video item recognition
-Amazon translate - translation service
-Transcribe - automatic speech recognition
+Comprehend - Natural language processing, providing insight into text.
+DeepLens - Hardware camera with onboard deep-learning processing.
+Lex - Alexa engine.
+Machine Learning - Creation of traditional machine learning models.
+Polly - Text to speech.
+Rekognition - Image/Video item recognition.
+Amazon translate - translation service.
+Transcribe - automatic speech recognition.
 
 ## Analytics
-Athena
+Athena - Serverless analysis of data in S3 quering via standard SQL.
 EMR - Elastic Map-Reduce
-CloudSearch -
-ElasticSearch Service
+CloudSearch - Enables rich search capability in a website or application.
+ElasticSearch Service - Managed Elasticsearch.
 Kinesis - Ingestion large amounts of machine data
 Kinesis Video Stream - Ingest large amounts of video feed
 QuickSight - Business Intelligence tool
-Data Pipeline -
-Glue
+Data Pipeline - Interval-based data transfer, processing and storage.
+Glue - Managed serverless extract, transform and load (ETL) service.
