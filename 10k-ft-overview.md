@@ -1,5 +1,8 @@
 # AWS 10,000 Foot Overview
 
+This lesson provides a very brief overview of the current AWS landscape.
+
+
 ## Compute
 EC2 - Elastic Compute Cloud
 EC2 Container Service - for running docker containers
