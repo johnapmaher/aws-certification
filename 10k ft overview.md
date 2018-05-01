@@ -1,14 +1,14 @@
-AWS 10,000 Foot Overview
+#AWS 10,000 Foot Overview
 
-Compute
+##Compute
 EC2 - Elastic Compute Cloud
 EC2 Container Service - for running docker containers
-Elastic Beanstalk - 
+Elastic Beanstalk -
 Lambda - serverless/function as a service
 Lightsail - VPS service, provisioned server
 Batch
 
-Storage
+## Storage
 S3 - Simple Storage Service
 EFS - Elastic File System/NAS
 Glacier - Data archival/Cheap storage
@@ -54,19 +54,19 @@ OpsWorks - Chef & Puppet Automation
 Service Catalog - cataloging available service, governance etc.
 Systems Manager - Grouping/Patching bunch of Systems
 Trusted Advisor - Advises on security/cost improvements
-Managed Services - autoscaling etc. 
+Managed Services - autoscaling etc.
 
 Media Services
 Elastic Transcoder - Transcoding video for multi-device
 MediaConvert - File based media Transcoder
 MediaLive - HQ video streams
 MediaPackage - Prep for transport across web
-MediaStore 
+MediaStore
 MediaTailor
 
 Machine Learning
 SageMaker - Deep Learning
-Comprehend 
+Comprehend
 DeepLens
 Lex - Alexa engine
 Machine Learning
@@ -78,10 +78,10 @@ Transcribe - automatic speech recognition
 Analytics
 Athena
 EMR - Elastic Map-Reduce
-CloudSearch - 
+CloudSearch -
 ElasticSearch Service
 Kinesis - Ingestion large amounts of machine data
 Kinesis Video Stream - Ingest large amounts of video feed
 QuickSight - Business Intelligence tool
-Data Pipeline - 
+Data Pipeline -
 Glue
