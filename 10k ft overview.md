@@ -15,20 +15,20 @@ Glacier - Data archival/Cheap storage
 Snowball - Physical transfer of data
 Storage Gateway - Physical replication of S3
 
-Databases
+## Databases
 RDS - Relational Database Service
 DynamoDB - Amazon's own noSQL
 Elasticache - caching service
 Red Shift - Data-warehousing
 
-Migration
+## Migration
 AWS Migration Hub
 Application Discovery Service - Tracking application and app dependencies
 Database Migration Service - simplify migration of db to AWS
 Server Migration Service - simplify migration of server to AWS
 Snowball - Physical transfer of data
 
-Network & Content Delivery
+## Network & Content Delivery
 VPC - Virtual Private Cloud
 CloudFront - Amazon's CDN
 Route53 - DNS service, DNS mapping from domain to ipv4/ipv6
@@ -36,7 +36,7 @@ API Gateway
 Direct Connect
 
 
-Developer Tools
+## Developer Tools
 CodeStar - Continous Delivery collab tool
 CodeCommit - version control
 CodeBuild - Build pipeline
@@ -45,7 +45,7 @@ CodePipeline - Continous Delivery service
 X-Ray - Serverless analysis tool
 Cloud9 - IDE build into AWS console
 
-Management Tools
+## Management Tools
 CloudWatch - Sys Ops management tool
 CloudFormation - Infrastructure as code
 CloudTrail - Logging configuration changes
@@ -56,7 +56,7 @@ Systems Manager - Grouping/Patching bunch of Systems
 Trusted Advisor - Advises on security/cost improvements
 Managed Services - autoscaling etc.
 
-Media Services
+## Media Services
 Elastic Transcoder - Transcoding video for multi-device
 MediaConvert - File based media Transcoder
 MediaLive - HQ video streams
@@ -64,7 +64,7 @@ MediaPackage - Prep for transport across web
 MediaStore
 MediaTailor
 
-Machine Learning
+## Machine Learning
 SageMaker - Deep Learning
 Comprehend
 DeepLens
@@ -75,7 +75,7 @@ Rekognition - Image/Video item recognition
 Amazon translate - translation service
 Transcribe - automatic speech recognition
 
-Analytics
+## Analytics
 Athena
 EMR - Elastic Map-Reduce
 CloudSearch -
