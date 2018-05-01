@@ -5,4 +5,6 @@ acloud.guru course found here:
 https://acloud.guru/learn/aws-certified-solutions-architect-associate
 
 
-## [Lesson One - 10,000 ft overview](10k-ft-overview.md)
+## [Chapter One - 10,000 ft overview](10k-ft-overview.md)
+
+## [Chapter Two - Identity Access Management](identity-access-management.md)
